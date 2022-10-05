@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Chris",
+        "weightLog": [{
+            "date": "2021-12-02",
+            "weight": 68
+        }],
+        "height": 140
+    },
+    {
+        "name": "Ethan",
+        "weightLog": [],
+        "height": 183
+    }
+]

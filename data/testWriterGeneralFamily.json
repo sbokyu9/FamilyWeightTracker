@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ethan",
+        "weightLog": [
+            {
+                "date": "2021-11-27",
+                "weight": 10
+            },
+            {
+                "date": "2021-11-27",
+                "weight": 11
+            }
+        ],
+        "height": 183
+    },
+    {
+        "name": "Bryan",
+        "weightLog": [
+            {
+                "date": "2021-11-27",
+                "weight": 10
+            },
+            {
+                "date": "2021-11-27",
+                "weight": 11
+            }
+        ],
+        "height": 165
+    }
+]
